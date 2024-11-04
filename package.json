@@ -1,0 +1,11 @@
+{
+  "name": "fleet-code",
+  "module": "lesson1.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
