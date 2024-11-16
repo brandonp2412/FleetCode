@@ -1,11 +1,19 @@
-const person = 'Elon';
+let index = 0;
 
-if (person == 'Elon') {
-    console.log("Hi Mr. musk")
+index = index + 1;
+
+// Is the same as 
+
+index += 1;
+
+// Is the same as 
+
+index++;
+
+let daysInWeek = 0;
+for (let day = 0; day < 7; day++) {
+    daysInWeek++;
 }
-else if (person != 'John Pork') {
-    console.log('Your no porker...')
-}
-else {
-    console.log(`Hello ${person}`)
-}
+
+// What is this going to output?
+console.log('There are ' + daysInWeek + ' days in a week.');

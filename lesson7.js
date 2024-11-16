@@ -1,17 +1,10 @@
-let day = 'Monday';
+let day = 'Thursday';
 console.log('Today is ' + day);
 
-day = 'Tuesday';
+day = 'Friday';
 console.log('Today is ' + day);
 
-day = 'Wednesday';
+day = 'Saturday';
 console.log('Today is ' + day);
 
-day = 'Thursday';
-console.log('Today is ' + day);
-
-// Re-write this to be simpler.
-
-for(let i = 0; i < 100; i++) {
-    
-}
+// Re-write this using a loop

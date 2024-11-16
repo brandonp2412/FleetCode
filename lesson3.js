@@ -1,4 +1,5 @@
-const name = Mr beast
+// Fix this statement.
+let name = Mr beast
 
 console.log('Try to use all types of quotes')
 console.log("Pick your favorite")

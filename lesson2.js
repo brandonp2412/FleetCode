@@ -1,6 +1,8 @@
-const game = 30
-const hours = 3
+let minutes = 30
+let games = 3;
 
-console.log('I can play Fortnite', (hours * 60) / (game * 2), 'times!')
+console.log('Im going to play games for')
+console.log(minutes * games)
+console.log('minutes')
 
 // Increase the # of times we could play fortnite.

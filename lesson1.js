@@ -1,13 +1,8 @@
+// Change this to welcome yourself.
 console.log('Hello John')
+
+// Change this to state your own age.
 console.log('You seem ' + 20 + ' years old')
 
-
-// This is a comment!
-// We can write anything we like here and it won't
-// change how our software works.
-// 
-
-/*
-    This comment has many lines
-    Now we don't have to begin with //
-*/
+// Make this say the number 5 instead.
+console.log(1 + 2)
